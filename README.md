@@ -11,7 +11,7 @@ https://youtu.be/EqVOMwx5Mos
 
 **HOME PAGE:**
 - banner
-(https://user-images.githubusercontent.com/72911752/115893784-40bf6480-a461-11eb-82d3-add83b2562ff.JPG)
+![Banner](https://user-images.githubusercontent.com/72911752/115893784-40bf6480-a461-11eb-82d3-add83b2562ff.JPG)
 
 - Featured profiles
 ![Featured profile](https://user-images.githubusercontent.com/72911752/115893871-592f7f00-a461-11eb-99fe-e5aefb7760eb.JPG)
